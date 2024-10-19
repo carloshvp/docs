@@ -26,7 +26,7 @@ A chat interface that lets you ask coding-related questions. {% data variables.p
 
 A chat-like interface in the terminal, where you can ask questions about the command line. You can ask {% data variables.product.prodname_copilot_short %} to provide command suggestions or explanations of commands.
 
-### {% data variables.product.prodname_copilot_for_prs %}
+### {% data variables.product.prodname_copilot_for_prs %} _({% data variables.product.prodname_copilot_enterprise_short %} only)_
 
 AI-generated summaries of the changes that were made in a pull request, which files they impact, and what a reviewer should focus on when they conduct their review.
 
